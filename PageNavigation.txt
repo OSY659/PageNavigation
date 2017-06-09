@@ -1,0 +1,3 @@
+Frame.Navigate(typeof(SecondPage));
+
+You can write on button or click something.
